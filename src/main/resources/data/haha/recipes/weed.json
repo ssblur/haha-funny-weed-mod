@@ -6,7 +6,7 @@
     ],
     "key": {
         ".": {
-            "item": "minecraft:wheat_seeds"
+            "tag": "minecraft:seeds"
         },
         "|": {
             "item": "minecraft:paper"
